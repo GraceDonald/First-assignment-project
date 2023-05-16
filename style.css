@@ -1,0 +1,76 @@
+/* body{
+    /* background-color: blue;
+    background-image: url("../Images/photo...jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed; */
+    /* background: gray url("../Images/photo...jpg") no-repeat right top;
+    
+}
+
+h1{
+    font-size: 80px; 
+    color: white  ;
+}
+
+p{
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+
+#box{
+    background-color: black;
+    width: 600px;
+    height: 200px;
+}
+#para{
+    color: white;
+}
+
+.session{
+    background-color: blueviolet;
+    width: 600px;
+    height: 300px;
+}
+h2{
+    color: green;
+}
+
+span, h3, i{
+color: darkorange;
+font-size: 50px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}  */ 
+  
+p{
+    border-style: dotted;
+    border-width: 20px;
+    border-color: red;
+    font-size: 20px;
+}
+.heading{
+    border-style: solid;
+   border-width: 20px 5px;
+    border-color: blue;
+}
+
+.box{
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dashed;
+    border-left-style: solid;
+    border-width: 10px;
+}
+.container{
+    width: 320px;
+    height: 250px;
+    background-color: grey;
+    color: white;
+    border: 20px ridge black;
+}
+
+h3{
+    border: 10px groove white;
+}
